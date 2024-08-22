@@ -1,7 +1,10 @@
 # Sistema de CRUD com PHP
-
-<img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/Language-PHP-AEB2D5">
+<div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-yellow">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Language-PHP-AEB2D5">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Language-HTML-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Language-CSS-blue">
+</div>
 
 ### Sobre o Projeto
 O projeto é um sistema de CRUD (Create, Read, Update, Delete). Com o uso das tecnologias: PHP, HTML, CSS e MySQL. O sistema oferece uma solução completa para a gestão de registros, permitindo aos usuários adicionar, visualizar, atualizar e excluir dados de maneira eficiente e intuitiva.
