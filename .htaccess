@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 403 http://localhost/crud-php/pages/error.php
+ErrorDocument 404 http://localhost/crud-php/pages/error.php
